@@ -20,7 +20,7 @@ node{
         */
         //docker.withRegistry( 'https://registry.hub.docker.com', 'DockerHubPassword' ) {
              
-             sh 'sudo docker login -u "dharish008" -p "" docker.io'
+             sh 'sudo docker login -u "dharish008" -p "J#0led!IR65J%j$5" docker.io'
              //sh 'sudo docker push upasanatestdocker/mysql'
              //sh 'sudo docker push upasanatestdocker/job1_web1.0'
              sh 'sudo docker push dharish008/job1_web2.0'
